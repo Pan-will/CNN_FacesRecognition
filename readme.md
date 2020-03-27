@@ -1,6 +1,6 @@
 博客地址：https://www.cnblogs.com/panweiwei/
 
-GitHub地址：https://github.com/PanWeiw/-CNN-FacesRecognition.git
+GitHub地址：https://github.com/PanWeiw/CNN_FacesRecognition.git
 
 项目环境：详见requirements.txt文件；
 
