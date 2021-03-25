@@ -71,7 +71,7 @@ pytils==0.3
 pytz==2019.3
 PyWavelets==1.1.1
 pywin32==220
-PyYAML==5.1.2
+PyYAML==5.4
 queuelib==1.4.2
 redis==3.4.1
 requests==2.23.0
