@@ -17,7 +17,7 @@ cssselect==1.1.0
 cv2-tools==2.3.4
 cycler==0.10.0
 decorator==4.4.2
-Django==2.1.5
+Django==2.2.24
 dlib==19.6.1
 Flask==1.1.1
 gast==0.3.2
