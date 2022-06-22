@@ -43,7 +43,7 @@ mkl-service==2.3.0
 more-itertools==8.0.2
 murmurhash==1.0.1
 networkx==2.4
-numpy==1.16.6
+numpy==1.22.0
 opencv-python==4.1.1.26
 packaging==20.0
 pandas==0.25.3
