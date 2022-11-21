@@ -85,7 +85,7 @@ sklearn2==0.0.13
 soupsieve==2.0
 statsmodels==0.10.2
 tensorboard==1.9.0
-tensorflow==2.7.2
+tensorflow==2.9.3
 termcolor==1.1.0
 tools==0.1.9
 Twisted==22.4.0
