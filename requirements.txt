@@ -70,7 +70,7 @@ python-dateutil==2.7.5
 pytils==0.3
 pytz==2019.3
 PyWavelets==1.1.1
-pywin32==220
+pywin32==301
 PyYAML==5.1.2
 queuelib==1.4.2
 redis==3.4.1
